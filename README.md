@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development Project**
 
-- 🤝 I’m looking for help with [Banking System](https://github.com/123anamika09/BankingSystem)
+- 🤝 I’m looking for help with [Wanderlust](https://github.com/123anamika09/WanderLust)
 
 - 👨‍💻 All of my projects are available at [https://github.com/123anamika09?tab=repositories](https://github.com/123anamika09?tab=repositories)
 
